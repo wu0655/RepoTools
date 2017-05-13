@@ -1,1 +1,1 @@
-include ':app', ':gitsize'
+include ':app', ':gitsize', ':genRepoCmd'
